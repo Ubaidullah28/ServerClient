@@ -1,0 +1,1 @@
+$UPLOAD$ /home/m-ubaidullah-ishtiaque/Desktop/ServerClient/ubaidtext.txt
