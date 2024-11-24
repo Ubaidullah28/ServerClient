@@ -43,7 +43,7 @@ int main() {
 
     FILE *cmd_file = fopen("Commands.txt", "r");
     if (!cmd_file) {
-        perror("Failed to open commands.txt");
+        perror("Failed to open Commands.txt");
         close(sock);
         exit(EXIT_FAILURE);
     }

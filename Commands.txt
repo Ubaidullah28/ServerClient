@@ -1,1 +1,1 @@
-$UPLOAD$ /home/m-ubaidullah-ishtiaque/Desktop/ServerClient/ubaidtext.txt
+$UPLOAD$ /home/m-ubaidullah-ishtiaque/Desktop/ServerClient/abc.txt
